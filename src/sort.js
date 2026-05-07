@@ -1,3 +1,3 @@
 export const sort = (arr) => {
-    return arr.sort((a,b) => b.health - a.health)
-}
+    return arr.sort((a,b) => b.health - a.health);
+};
